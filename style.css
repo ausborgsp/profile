@@ -1,0 +1,68 @@
+h1 {
+   color: rgb(33, 33, 47); 
+   font-size: 32px;
+    font-weight: 900;
+}
+
+body {
+    background-color: #f4f4f4;
+}
+
+img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+
+body {
+    width: 550px;
+    margin: 40px auto;
+}
+
+div {
+    width: 400px;
+    margin: 100px auto;
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+} 
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.title  {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 20px;
+}
+.card-one {
+    background-color: black;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgba(255,255,255,0.45);
+    border-radius: 4px;
+    margin: 20px 0px;
+    text-align: center;
+    color:orangered ;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.instagram {
+    width: 25px;
+    height: 25px;
+}
+
+.instagram-one {
+    color: rgb(255, 255, 141);
+}
+
+h2 {
+    font-size: 30px;
+}
